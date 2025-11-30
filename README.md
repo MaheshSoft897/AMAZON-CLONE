@@ -429,4 +429,5 @@ This project is for educational purposes only.
 For issues and questions, please open an issue on the repository.
 
 #   A M A Z O N - C L O N E  
+ #   S K Y T R E N D _ O F F I C I A L  
  
